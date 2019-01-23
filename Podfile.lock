@@ -1,0 +1,22 @@
+PODS:
+  - Cheers (2.1.0)
+
+DEPENDENCIES:
+  - Cheers (from `https://github.com/onmyway133/Cheers`, commit `1429d87`)
+
+EXTERNAL SOURCES:
+  Cheers:
+    :commit: 1429d87
+    :git: https://github.com/onmyway133/Cheers
+
+CHECKOUT OPTIONS:
+  Cheers:
+    :commit: 1429d87
+    :git: https://github.com/onmyway133/Cheers
+
+SPEC CHECKSUMS:
+  Cheers: 02d6335ac9ceb1ebf678df78d378bc71242a015e
+
+PODFILE CHECKSUM: f644cefb2869621011f9daf60b931bc28c6b034a
+
+COCOAPODS: 1.5.3
